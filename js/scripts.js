@@ -9,5 +9,5 @@ function login()
 }
 function lx()
 {
-	alert("站长联系方式\nb站:UID:627783422\n抖音:");
+	alert("站长联系方式\nQQ:2014195801");
 }
